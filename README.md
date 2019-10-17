@@ -1,8 +1,6 @@
-# READ ME
+# Business Card App Backend
 
-## Business Card App Backend
-
-### EndPoints
+## EndPoints
 
 /login
 /register
